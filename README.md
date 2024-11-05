@@ -5,3 +5,8 @@ I'm adding more text here because I don't think the previous commit worked. I fo
 
 Nov 1 2024, Assignment Interation 1 complete
 Iteration 2: recipe page complete
+Iteration 3: added page content
+
+Nov 5 2024
+Iteration 4 complete
+Assignment complete
